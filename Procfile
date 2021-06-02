@@ -1,1 +1,1 @@
-web: gunicorn BHKpred.wsgi
+web: gunicorn BHKpred.wsgi --log-file -
